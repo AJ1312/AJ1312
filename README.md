@@ -24,7 +24,7 @@
 | Project | Preview | Description | Stack |
 |--------|---------|-------------|--------|
 | **[💼 ajiteshportfolio](https://github.com/AJ1312/ajiteshportfolio)** | <img src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif" width="120"/> | Animated personal portfolio with futuristic UI | React, Tailwind, Framer Motion |
-| **[🍎 Nutri Baba](https://github.com/AJ1312/Nutri-Baba)** | <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="120"/> | AI-driven food analysis, diet planning, and expert Q&A | HTML, JS, Tailwind, Gemini API |
+| **[🍎 Nutri Baba](https://github.com/AJ1312/Nutri-Baba)** | <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUybmIybmtiYmtxN29mNWZwcnF4aXR4ajN5eG94Y2Nka2U3b3dwd3A1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Et8a9vvkghmf9Es1Tn/source.gif" width="120"/> | AI-driven food analysis, diet planning, and expert Q&A | HTML, JS, Tailwind, Gemini API |
 | **[🎟️ SeatSnap DevOps](https://github.com/AJ1312/SeatSnap-devops)** | <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="120"/> | Ticketing platform with full CI/CD pipeline | React, Firebase, GitHub Actions |
 
 ---
